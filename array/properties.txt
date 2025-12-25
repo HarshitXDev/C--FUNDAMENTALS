@@ -1,0 +1,4 @@
+1.compile time intialization 
+2.partial intialization 
+3.size auto calculated
+4.all zero   

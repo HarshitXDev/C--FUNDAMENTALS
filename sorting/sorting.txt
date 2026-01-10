@@ -1,0 +1,6 @@
+SORTING: To arrange a set of number in desired sequence.
+
+BUBBLE SORT: While arranging a number in ascending number the greatest number bubbles up to the end of the array after one pass .
+ 
+
+ //c function works on passbyvalue but for array it works as passby refernce ?????

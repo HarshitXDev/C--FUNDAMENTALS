@@ -28,5 +28,11 @@
         chaiobj.servings=2;
         chaiobj.ingredients= {"water","lemon","honey","tea"};
         chaiobj.displayChaiDetails();
+
+        Chai chaiobj2;
+        chaiobj2.teaName = "coffee";
+        chaiobj2.servings=2;
+        chaiobj2.ingredients={"water","coffee","milk","sugar"};
+        chaiobj2.displayChaiDetails();
         return 0;
     }
